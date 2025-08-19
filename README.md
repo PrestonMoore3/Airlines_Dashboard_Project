@@ -2,6 +2,12 @@
 
 ### TL;DR -- See the dashboard here: This will launch the dashboard at http://127.0.0.1:8050 in your browser.
 
+<img width="2970" height="1622" alt="image" src="https://github.com/user-attachments/assets/0735721f-3fa1-4a55-b351-d675d154d1a8" />
+<img width="1501" height="927" alt="Screenshot 2025-08-19 at 4 02 51 PM" src="https://github.com/user-attachments/assets/7cd34a96-9df7-4a6a-a009-72681bc59528" />
+<img width="1906" height="955" alt="Screenshot 2025-08-19 at 4 03 49 PM" src="https://github.com/user-attachments/assets/d698f883-e216-477c-a3f0-513218400318" />
+<img width="1761" height="950" alt="Screenshot 2025-08-19 at 4 03 57 PM" src="https://github.com/user-attachments/assets/0cbba29c-0b44-4991-8d76-95d3de288564" />
+
+
 ## Overview
 This project features an interactive dashboard for analyzing yearly airline performance using Python, Plotly, and Dash. The dashboard provides visual insights into various aspects of airline operations, including flight cancellations, delays, and performance metrics across different airlines.
 
