@@ -1,6 +1,6 @@
 # Yearly Airline Performance Report and Dashboard
 
-###TL;DR -- See the dashboard here: This will launch the dashboard at http://127.0.0.1:8050 in your browser.
+### TL;DR -- See the dashboard here: This will launch the dashboard at http://127.0.0.1:8050 in your browser.
 
 ## Overview
 This project features an interactive dashboard for analyzing yearly airline performance using Python, Plotly, and Dash. The dashboard provides visual insights into various aspects of airline operations, including flight cancellations, delays, and performance metrics across different airlines.
